@@ -29,7 +29,7 @@ function App() {
                 backgroundImage: `url('https://images.pexels.com/photos/259191/pexels-photo-259191.jpeg?auto=compress&cs=tinysrgb&w=600')`,
             }}
         >
-          <h1 className='text-7xl font-semibold text-green-900 text-center  '> GHAZI Currency Generator</h1>
+          <h1 className='text-7xl font-semibold text-green-900 text-center '> GHAZI Currency Generator</h1>
             <div className="w-full">
                 <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                     <form
